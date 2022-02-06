@@ -1,5 +1,5 @@
 import React, {useCallback, useEffect} from 'react';
-import {SafeAreaView, ScrollView, Text, View} from 'react-native';
+import {SafeAreaView} from 'react-native';
 import {styles} from './styles';
 import {useSelector, useDispatch} from 'react-redux';
 
